@@ -1,10 +1,13 @@
 import React from 'react'
+import Form from './Componentes/Form'
 
 
 
 function App() {
   return (
-  <h1> aca</h1>
+   <div>
+    <Form/>
+   </div>
   )
 }
 export default App
